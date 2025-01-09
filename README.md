@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Olá, eu sou Bruno!
 
-<!--
-**FBruno136/FBruno136** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Sobre mim
+🔹 
+Sou um programador apaixonado por criar soluções práticas e criativas. Meu objetivo é sempre aprender algo novo enquanto contribuo para projetos, especialmente nas áreas de Inteligência Artificial, Automação e Desenvolvimento de Software.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 Habilidades
+- **Linguagens**: Python, Java, JavaScript, PHP.
+- **Ferramentas**: Git, Docker, VS Code.
+- **Áreas de Interesse**: NLP, Machine Learning, Desenvolvimento Web.
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SeuUsuario&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeuUsuario&layout=compact&theme=radical)
