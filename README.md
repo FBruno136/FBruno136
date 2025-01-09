@@ -13,5 +13,5 @@ Sou um programador apaixonado por criar soluções práticas e criativas. Meu ob
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SeuUsuario&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeuUsuario&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FBruno136&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FBruno136&layout=compact&theme=radical)
