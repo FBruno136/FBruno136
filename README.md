@@ -13,21 +13,20 @@ Sou um programador apaixonado por criar soluções práticas e criativas. Meu ob
 
 ---
 
-## 🔹 Conecte-se comigo
-
+## 📲 Conecte-se comigo
 - (https://www.linkedin.com/in/bruno-fernandes-37a6551a1)
 
 ---
-🔹 Projetos 
-Um jogo da memoria: 
-Projeto utilizado para ensinar alguns alunos como usar recursos de inteligencia artificial pra criar/auxiliar na criação de um jogo da memoria simples:
-https://github.com/FBruno136/Memory-Game
-Um jogo da cobrinha:
-Projeto utilizado pra ensinar a equipe a usar recursos de "Progressão infinita" 
-https://github.com/FBruno136/Snake-Game
-Um jogo de Sudoku:
-Projeto de fim de semana
-https://github.com/FBruno136/Sudoku
+## 🔹 Projetos 
+- Um jogo da memoria: 
+- Projeto utilizado para ensinar alguns alunos como usar recursos de inteligencia artificial pra criar/auxiliar na criação de um jogo da memoria simples:
+- https://github.com/FBruno136/Memory-Game
+- Um jogo da cobrinha:
+- Projeto utilizado pra ensinar a equipe a usar recursos de "Progressão infinita" 
+- https://github.com/FBruno136/Snake-Game
+- Um jogo de Sudoku:
+- Projeto de fim de semana
+- https://github.com/FBruno136/Sudoku
 ---
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FBruno136&show_icons=true&theme=radical)
